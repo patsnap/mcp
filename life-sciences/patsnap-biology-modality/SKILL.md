@@ -1,17 +1,17 @@
 ---
-name: patsnap-biological-modality
-description: PatSnap Biological Modality MCP for AI agents. Search 1B+ biological sequences, antibodies, and multi-omics data via specialized bio-intelligence tools.
+name: patsnap-biology-modality
+description: PatSnap Biology Modality MCP for AI agents. Search 1B+ biological sequences, antibodies, and multi-omics data via specialized bio-intelligence tools.
 ---
 
-# PatSnap Biological Modality
+# PatSnap Biology Modality
 
-This skill connects your AI agent to **PatSnap's Biological Modality MCP server** — providing professional-grade biological sequence and modality analysis capabilities.
+This skill connects your AI agent to **PatSnap's Biology Modality MCP server** — providing professional-grade biological sequence and modality analysis capabilities.
 
 With this skill, your agent can navigate the world of large molecules, from sequence-based patent searching to antibody-antigen interaction discovery and multi-omics data retrieval.
 
 ## Prerequisites
 
-This skill requires the **PatSnap Biological Modality MCP server** to be configured in your environment:
+This skill requires the **PatSnap Biology Modality MCP server** to be configured in your environment:
 
 ```json
 {
