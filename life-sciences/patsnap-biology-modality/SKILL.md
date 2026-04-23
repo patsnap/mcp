@@ -5,7 +5,7 @@ description: PatSnap Biological Modality MCP for AI agents. Search 1B+ biologica
 
 # PatSnap Biological Modality
 
-This skill connects your AI agent to **PatSnap's Biological Intelligence MCP server** — providing professional-grade biological sequence and modality analysis capabilities.
+This skill connects your AI agent to **PatSnap's Biological Modality MCP server** — providing professional-grade biological sequence and modality analysis capabilities.
 
 With this skill, your agent can navigate the world of large molecules, from sequence-based patent searching to antibody-antigen interaction discovery and multi-omics data retrieval.
 
@@ -16,8 +16,8 @@ This skill requires the **PatSnap Biological Modality MCP server** to be configu
 ```json
 {
   "mcpServers": {
-    "biological_intelligence": {
-      "url": "https://connect.patsnap.com/mcp/biological_intelligence",
+    "biology_modality": {
+      "url": "https://connect.patsnap.com/06e741/logic-mcp?apikey=YOUR_API_KEY",
       "type": "streamableHttp"
     }
   }
