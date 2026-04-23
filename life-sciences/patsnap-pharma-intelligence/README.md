@@ -15,13 +15,18 @@ Built for researchers, drug developers, competitive intelligence teams, and anyo
 
 ## 🚀 Quick Connect
 
+Connect URL:
+```
+https://connect.patsnap.com/096456/logic-mcp?apikey=YOUR_API_KEY
+```
+
 Add the following snippet to your MCP configuration file (e.g., Claude Desktop, Cursor, or any MCP-compatible agent):
 
 ```json
 {
   "mcpServers": {
     "pharma_intelligence": {
-      "url": "https://connect.patsnap.com/mcp/pharma_intelligence",
+      "url": "https://connect.patsnap.com/096456/logic-mcp?apikey=YOUR_API_KEY",
       "type": "streamableHttp"
     }
   }
