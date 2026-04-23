@@ -17,7 +17,7 @@ This skill requires the **PatSnap Pharma Intelligence MCP server** to be configu
 {
   "mcpServers": {
     "pharma_intelligence": {
-      "url": "https://connect.patsnap.com/mcp/pharma_intelligence",
+      "url": "https://connect.patsnap.com/096456/logic-mcp?apikey=YOUR_API_KEY",
       "type": "streamableHttp"
     }
   }
@@ -98,5 +98,5 @@ After retrieving data, present findings in a structured, professional format:
 ## Resources
 
 - **MCP Server**: [open.patsnap.com/marketplace/mcp-servers](https://open.patsnap.com/marketplace/mcp-servers/245f3ce8-79e4-4c2a-927c-e155c293f097)
-- **API Docs**: [open.patsnap.com/developers](https://open.patsnap.com/developers)
+- **API Docs**: [open.patsnap.com/devportal](https://open.patsnap.com/devportal)
 - **PatSnap Life Sciences**: [patsnap.com/solutions/life-sciences](https://www.patsnap.com/solutions/life-sciences/)
