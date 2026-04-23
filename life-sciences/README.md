@@ -20,7 +20,7 @@ PatSnap's Life Sciences MCP servers give AI agents direct access to the world's 
 
 Install the Pharma Intelligence skill for your AI agent:
 
-    npx skills add patsnap/mcp/tree/main/life-sciences/pharma-intelligence --all
+    npx skills add https://github.com/patsnap/mcp/tree/main/life-sciences/patsnap-pharma-intelligence --all
 
 ---
 
