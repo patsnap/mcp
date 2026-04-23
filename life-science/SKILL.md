@@ -1,7 +1,8 @@
 ---
 name: patsnap-pharma-intelligence
-description: Connect AI agents to PatSnap's Pharma Intelligence MCP — enabling real-time search across clinical trials, drug pipelines, biomedical literature, patents, deals, FDA labels, epidemiology, HEOR, and pharma news. Covers 28 specialized tools for end-to-end pharmaceutical R&D intelligence.
+description: PatSnap Pharma Intelligence MCP. Search clinical trials, drugs, patents, papers, deals, FDA labels and more via 28 specialized tools.
 ---
+
 
 # PatSnap Pharma Intelligence
 
