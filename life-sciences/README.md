@@ -10,7 +10,9 @@ PatSnap's Life Sciences MCP servers give AI agents direct access to the world's 
 
 | Server | Description | Status |
 | :--- | :--- | :--- |
-| [Pharma Intelligence](./pharma-intelligence) | Clinical trials, drug pipelines, patents, papers, deals, FDA labels, epidemiology, HEOR, and pharma news. 28 tools. | ✅ Available |
+| [Pharma Intelligence](./patsnap-pharma-intelligence) | Clinical trials, drug pipelines, patents, papers, deals, FDA labels, epidemiology, HEOR, and pharma news. 28 tools. | ✅ Available |
+| [Biology Modality](./patsnap-biology-modality) | Search 1B+ biological sequences, antibodies, and multi-omics data via specialized bio-intelligence tools. | ✅ Available |
+| [Chemcial Molecular](./patsnap-chemical-molecular) | Search 160M+ chemical structures, synthetic routes, and bioactivity data via specialized chemistry tools. | ✅ Available |
 
 *More Life Sciences MCP servers coming soon.*
 
