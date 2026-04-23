@@ -7,7 +7,7 @@
 
 ## What is This?
 
-This is the official **Model Context Protocol (MCP) server** for PatSnap's **Biological Intelligence**. It provides AI agents with the specialized tools needed to analyze biological modalities, search for sequence similarities, and investigate the biological IP landscape (sequences in patents).
+This is the official **Model Context Protocol (MCP) server** for PatSnap's **Biological Modality**. It provides AI agents with the specialized tools needed to analyze biological modalities, search for sequence similarities, and investigate the biological IP landscape (sequences in patents).
 
 Designed for biologists, antibody engineers, and bioinformatics researchers who need an AI agent that can handle the complexity of large molecules and sequences.
 
@@ -15,13 +15,19 @@ Designed for biologists, antibody engineers, and bioinformatics researchers who 
 
 ## 🚀 Quick Connect
 
+Connect URL:
+
+```
+https://connect.patsnap.com/06e741/logic-mcp?apikey=YOUR_API_KEY
+```
+
 Add the following snippet to your MCP configuration file (e.g., Claude Desktop, Cursor, or any MCP-compatible agent):
 
 ```json
 {
   "mcpServers": {
-    "biological_intelligence": {
-      "url": "https://connect.patsnap.com/mcp/biological_intelligence",
+    "biology_modality": {
+      "url": "https://connect.patsnap.com/06e741/logic-mcp?apikey=YOUR_API_KEY",
       "type": "streamableHttp"
     }
   }
