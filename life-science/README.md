@@ -140,7 +140,7 @@ All 28 tools are organized into 6 functional categories:
 
 - **Developer Portal**: [open.patsnap.com](https://open.patsnap.com)
 - **MCP Server Listing**: [open.patsnap.com/marketplace/mcp-servers](https://open.patsnap.com/marketplace/mcp-servers)
-- **API Documentation**: [open.patsnap.com/developers](https://open.patsnap.com/developers)
+- **API Documentation**: [open.patsnap.com/developers](https://open.patsnap.com/devportal)
 - **PatSnap Life Sciences**: [patsnap.com/solutions/life-sciences](https://www.patsnap.com/solutions/life-sciences/)
 - **GitHub (Skills)**: [github.com/patsnap/skills](https://github.com/patsnap/skills)
 - **Contact**: [open.patsnap.com/contact](https://open.patsnap.com/contact)
