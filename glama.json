@@ -2,5 +2,22 @@
   "$schema": "https://glama.ai/mcp/schemas/server.json",
   "maintainers": [
     "PatsnapLifeScience"
+  ],
+  "servers": [
+    {
+      "id": "patsnap-pharma-intelligence",
+      "name": "PatSnap Pharma Intelligence",
+      "repository": "https://github.com/patsnap/mcp/tree/main/life-sciences/patsnap-pharma-intelligence"
+    },
+    {
+      "id": "patsnap-biology-modality",
+      "name": "PatSnap Biology Modality",
+      "repository": "https://github.com/patsnap/mcp/tree/main/life-sciences/patsnap-biology-modality"
+    },
+    {
+      "id": "patsnap-chemical-molecular",
+      "name": "PatSnap Chemical Molecular",
+      "repository": "https://github.com/patsnap/mcp/tree/main/life-sciences/patsnap-chemical-molecular"
+    }
   ]
 }
