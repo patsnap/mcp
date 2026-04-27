@@ -70,4 +70,9 @@ For the full list of tools, input parameters, and API specifications, please ref
 
 ---
 
+[![mcp MCP server](https://glama.ai/mcp/servers/patsnap/mcp/badges/card.svg)](https://glama.ai/mcp/servers/patsnap/mcp)
+
+[![mcp MCP server](https://glama.ai/mcp/servers/patsnap/mcp/badges/score.svg)](https://glama.ai/mcp/servers/patsnap/mcp)
+
+---
 *Powered by [PatSnap](https://www.patsnap.com) — Innovate with Confidence.*
