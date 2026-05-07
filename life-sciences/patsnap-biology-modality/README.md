@@ -44,7 +44,7 @@ This MCP server provides tools for biological sequence search (BLAST-like), anti
 
 For the full list of tools, input parameters, and API specifications, please refer to the official documentation:
 
-- **MCP Server Details**: [open.patsnap.com/marketplace/mcp-servers/96b4a650-d563-4fc5-860d-c99ee8cb5b1e](https://open.patsnap.com/marketplace/mcp-servers/96b4a650-d563-4fc5-860d-c99ee8cb5b1e)
+- **MCP Server Details**: https://open.patsnap.com/marketplace/mcp-servers/a96c9b0b-2831-4d18-a37d-286896979b8d
 - **API Documentation**: [open.patsnap.com/developers](https://open.patsnap.com/developers)
 
 ---
@@ -67,12 +67,6 @@ For the full list of tools, input parameters, and API specifications, please ref
 - **PatSnap Life Sciences**: [eureka.patsnap.com/ls-landing](https://eureka.patsnap.com/ls-landing)
 - **MCP Server Listing**: [open.patsnap.com/marketplace/mcp-servers](https://open.patsnap.com/marketplace/mcp-servers)
 - **API Documentation**: [open.patsnap.com/devportal](https://open.patsnap.com/devportal)
-
----
-
-[![mcp MCP server](https://glama.ai/mcp/servers/patsnap/mcp/badges/card.svg)](https://glama.ai/mcp/servers/patsnap/mcp)
-
-[![mcp MCP server](https://glama.ai/mcp/servers/patsnap/mcp/badges/score.svg)](https://glama.ai/mcp/servers/patsnap/mcp)
 
 ---
 *Powered by [PatSnap](https://www.patsnap.com) — Innovate with Confidence.*
