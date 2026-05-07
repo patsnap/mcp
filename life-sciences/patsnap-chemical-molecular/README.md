@@ -65,9 +65,9 @@ For the full list of tools, input parameters, and API specifications, please ref
 
 ## 🔗 Resources
 
-- **Developer Portal**: [open.patsnap.com](https://open.patsnap.com)
-- **PatSnap Life Sciences**: [patsnap.com/solutions/life-sciences](https://www.patsnap.com/solutions/life-sciences/)
-- **GitHub (Skills)**: [github.com/patsnap/skills](https://github.com/patsnap/skills)
+- **PatSnap Life Sciences**: [eureka.patsnap.com/ls-landing](https://eureka.patsnap.com/ls-landing)
+- **MCP Server Listing**: [open.patsnap.com/marketplace/mcp-servers](https://open.patsnap.com/marketplace/mcp-servers)
+- **API Documentation**: [open.patsnap.com/devportal](https://open.patsnap.com/devportal)
 
 ---
 
