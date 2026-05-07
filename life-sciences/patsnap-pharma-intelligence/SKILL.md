@@ -1,7 +1,17 @@
 ---
 name: patsnap-pharma-intelligence
 description: PatSnap Pharma Intelligence MCP for AI agents. Search clinical trials, drugs, patents, papers, deals, FDA labels and more via 28 specialized tools.
+homepage: https://open.patsnap.com/marketplace/mcp-servers/245f3ce8-79e4-4c2a-927c-e155c293f097
+metadata:
+  author: PatSnap
+  category: "Life Science"
+  version: 1.0.0
+  requires:
+    mcp_endpoint: "https://connect.patsnap.com/096456/logic-mcp?apikey=YOUR_API_KEY"
 ---
+
+## Setup
+Get your API Key at https://open.patsnap.com
 
 # PatSnap Pharma Intelligence
 
@@ -97,6 +107,6 @@ After retrieving data, present findings in a structured, professional format:
 
 ## Resources
 
+- **PatSnap Life Sciences**: [eureka.patsnap.com/ls-landing](https://eureka.patsnap.com/ls-landing)
 - **MCP Server**: [open.patsnap.com/marketplace/mcp-servers](https://open.patsnap.com/marketplace/mcp-servers/245f3ce8-79e4-4c2a-927c-e155c293f097)
 - **API Docs**: [open.patsnap.com/devportal](https://open.patsnap.com/devportal)
-- **PatSnap Life Sciences**: [patsnap.com/solutions/life-sciences](https://www.patsnap.com/solutions/life-sciences/)
