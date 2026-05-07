@@ -30,7 +30,7 @@ Install the Pharma Intelligence skill for your AI agent:
 
 - **PatSnap Open Platform**: [open.patsnap.com](https://open.patsnap.com)
 - **All MCP Servers**: [open.patsnap.com/marketplace/mcp-servers](https://open.patsnap.com/marketplace/mcp-servers)
-- **PatSnap Life Sciences**: [patsnap.com/solutions/life-sciences](https://www.patsnap.com/solutions/life-sciences/)
+- **PatSnap Life Sciences**: [eureka.patsnap.com/ls-landing](https://eureka.patsnap.com/ls-landing)
 - **GitHub (Skills)**: [github.com/patsnap/skills](https://github.com/patsnap/skills)
 
 ---
