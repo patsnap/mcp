@@ -1,0 +1,13 @@
+{
+  "name": "@patsnap/biology-modality",
+  "version": "1.0.0",
+  "description": "MCP server providing AI agents with direct access to biological sequences, molecular properties, binding assays, and omics data. Requires a valid PatSnap API key (obtain from https://open.patsnap.com).",
+  "private": true,
+  "mcp": {
+    "type": "http",
+    "url": "https://connect.patsnap.com/06e741/Logic-mcp",
+    "headers": {
+      "Authorization": "Bearer ${PATSNAP_API_KEY}"
+    }
+  }
+}
