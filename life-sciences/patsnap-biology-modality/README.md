@@ -1,7 +1,6 @@
 # 🧬 PatSnap Biology Modality MCP
 
-> **The definitive biology sequence and modality intelligence layer for AI agents.**
-> Connect your agent to 1B+ biological sequences, including proteins, nucleotides, antibodies, and multi-omics data.
+PatSnap Biology Modality provides AI agents with direct, structured access to a vast corpus of biological entity data. It deeply integrates molecular properties, binding affinities, dose-response relationships, and molecular pre-training insights, empowering researchers to accelerate drug discovery and biological understanding. Built on PatSnap's comprehensive life sciences platform, it connects you to over 200M+ patents, sequences, and bioactivity records.
 
 ---
 
