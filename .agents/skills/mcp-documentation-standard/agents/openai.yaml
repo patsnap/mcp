@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCP Documentation Standard"
+  short_description: "Create consistent Patsnap MCP catalog documentation"
+  default_prompt: "Use $mcp-documentation-standard to add or update an MCP server in this repository."
