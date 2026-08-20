@@ -1,6 +1,6 @@
 # Patsnap RD Innovation MCP Servers
 
-MCP servers for scientific literature discovery, journal intelligence, innovation report generation, patent value reporting, and novelty-check workflows, powered by Patsnap's proprietary RD intelligence databases.
+MCP servers for scientific literature discovery, journal intelligence, innovation report generation, TRIZ case discovery, concept solution generation, patent value reporting, and novelty-check workflows, powered by Patsnap's proprietary RD intelligence databases.
 
 ## About Patsnap
 
@@ -14,6 +14,8 @@ To explore Patsnap RD data interactively, try [Eureka](https://eureka.patsnap.co
 | :--- | :--- | :--- |
 | **Innovation Report Generator** | Innovation, patent value, and novelty-check report generation | [Innovation Report Generator](https://open.patsnap.com/marketplace/mcp-servers/8929e1a2-7b3b-4f9d-9bf2-2e5e29524bd3) |
 | **Scientific Literature & Journals** | Scientific literature, journal, author, institution, and citation discovery | [Scientific Literature & Journals](https://open.patsnap.com/marketplace/mcp-servers/dcfdc2d0-9d81-4cdd-8689-b89ae98b8a50) |
+| **TRIZ Concept Solution Engine** | Asynchronous TRIZ innovation and TRIZ/DFMA cost-reduction concept generation | [TRIZ Concept Solution Engine](https://open.zhihuiya.com/marketplace/mcp-servers/patsnap-solution-engine) |
+| **TRIZ Case Library** | Cross-domain TRIZ patent cases, effects, contradictions, and inventive principles | [TRIZ Case Library](https://open.zhihuiya.com/marketplace/mcp-servers/patsnap-triz-case-library) |
 
 ## Quick Start
 

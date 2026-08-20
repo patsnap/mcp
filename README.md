@@ -13,8 +13,8 @@ To explore Patsnap data interactively, try [Eureka](https://eureka.patsnap.com),
 | Domain | Description | Open Platform |
 | :--- | :--- | :--- |
 | [Life Sciences](./life-sciences) | Pharma intelligence: drugs, targets, clinical trials, papers, biological sequences, and chemical structures | [Life Sciences MCP Servers](./life-sciences) |
-| [IP Intelligence](./ip-intelligence) | Patent search, legal status, valuation, FTO, internal data connector, landscape, mining, and briefing workflows | [IP Intelligence MCP Servers](./ip-intelligence) |
-| [RD Innovation](./rd-innovation) | Patent and literature search, scientific journals, and innovation report generation | [RD Innovation MCP Servers](./rd-innovation) |
+| [IP Intelligence](./ip-intelligence) | Patent search, analysis, workspace collections, legal status, valuation, FTO, landscape, mining, and briefing workflows | [IP Intelligence MCP Servers](./ip-intelligence) |
+| [RD Innovation](./rd-innovation) | Scientific literature, innovation reports, TRIZ case discovery, and concept solution generation | [RD Innovation MCP Servers](./rd-innovation) |
 
 ## Life Sciences
 
@@ -36,10 +36,12 @@ To explore Patsnap data interactively, try [Eureka](https://eureka.patsnap.com),
 | [IP & Innovation Courses](./ip-intelligence/patsnap-ip-innovation-courses) | IP and innovation learning resources | [IP & Innovation Courses](https://open.patsnap.com/marketplace/mcp-servers/ip-courses) |
 | [Patent Valuation Scorecard](./ip-intelligence/patsnap-patent-valuation-scorecard) | Patent value scoring across technology, legal, market, strategy, and commercialization dimensions | [Patent Valuation Scorecard](https://open.patsnap.com/marketplace/mcp-servers/patent-value) |
 | [Maintain Payment](./ip-intelligence/patsnap-maintain-payment) | Patent maintenance payment and FTO-related workflows | [Maintain Payment](https://open.patsnap.com/marketplace/mcp-servers/patent-fto) |
+| [Patent Analysis](./ip-intelligence/patsnap-patent-analysis) | Patent trends, distributions, rankings, cross-tabs, keyword clouds, and innovation sunbursts | [Patent Analysis](https://open.zhihuiya.com/marketplace/mcp-servers/patent-analysis) |
 | [Global Core Patent Database](./ip-intelligence/patsnap-global-core-patent-database) | Global core patent records, full text, drawings, legal status, licensing, and bibliographic data | [Global Core Patent Database](https://open.patsnap.com/marketplace/mcp-servers/core-patents) |
 | [Deep Patent Mining](./ip-intelligence/patsnap-deep-patent-mining) | Technical topic, problem-solution-effect, classification, and patent text mining | [Deep Patent Mining](https://open.patsnap.com/marketplace/mcp-servers/patent-mining) |
 | [Patent Landscape Analytics](./ip-intelligence/patsnap-patent-landscape-analytics) | Patent landscape analysis across filing trends, technologies, applicants, regions, and value signals | [Patent Landscape Analytics](https://open.patsnap.com/marketplace/mcp-servers/patent-landscape) |
 | [Internal Patent Data Connector](./ip-intelligence/patsnap-internal-patent-data-connector) | Enterprise patent data connector for internal systems, applications, and automated workflows | [Internal Patent Data Connector](https://open.patsnap.com/marketplace/mcp-servers/patent-connector) |
+| [Workspace Patent Collection Reader](./ip-intelligence/patsnap-workspace) | Accessible workspace, folder, patent, field, annotation, and comment retrieval | [Workspace](https://open.zhihuiya.com/marketplace/mcp-servers/patsnap-workspace) |
 
 ## RD Innovation
 
@@ -47,6 +49,8 @@ To explore Patsnap data interactively, try [Eureka](https://eureka.patsnap.com),
 | :--- | :--- | :--- |
 | [Innovation Report Generator](./rd-innovation/patsnap-innovation-report-generator) | Innovation, patent value, and novelty-check report generation | [Innovation Report Generator](https://open.patsnap.com/marketplace/mcp-servers/report-gen) |
 | [Scientific Literature & Journals](./rd-innovation/patsnap-scientific-literature-journals) | Scientific literature, journal, author, institution, and citation discovery | [Scientific Literature & Journals](https://open.patsnap.com/marketplace/mcp-servers/literature-search) |
+| [TRIZ Concept Solution Engine](./rd-innovation/patsnap-solution-engine) | Asynchronous TRIZ innovation and TRIZ/DFMA cost-reduction concept generation | [TRIZ Concept Solution Engine](https://open.zhihuiya.com/marketplace/mcp-servers/patsnap-solution-engine) |
+| [TRIZ Case Library](./rd-innovation/patsnap-triz-case-library) | Cross-domain TRIZ patent cases, effects, contradictions, and inventive principles | [TRIZ Case Library](https://open.zhihuiya.com/marketplace/mcp-servers/patsnap-triz-case-library) |
 
 ## Quick Start
 

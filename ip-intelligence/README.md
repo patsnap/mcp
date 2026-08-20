@@ -1,6 +1,6 @@
 # Patsnap IP Intelligence MCP Servers
 
-MCP servers for patent search, legal status, valuation, FTO, internal patent data integration, landscape analytics, mining, and briefing workflows, powered by Patsnap's proprietary IP intelligence databases.
+MCP servers for patent search, analysis, workspace collections, legal status, valuation, FTO, internal patent data integration, landscape analytics, mining, and briefing workflows, powered by Patsnap's proprietary IP intelligence databases.
 
 ## About Patsnap
 
@@ -17,6 +17,7 @@ To explore Patsnap patent data interactively, try [Eureka](https://eureka.patsna
 | **Global Core Patent Database** | Global core patent records, full text, drawings, legal status, licensing, and bibliographic data | [Global Core Patent Database](https://open.patsnap.com/marketplace/mcp-servers/8dc7ef1d-d900-4c6d-bec6-2a9c03e7456b) |
 | **IP & Innovation Courses** | IP and innovation courses, course details, and training resources | [IP & Innovation Courses](https://open.patsnap.com/marketplace/mcp-servers/172edf47-eae9-4f01-b8c0-e6018aab79bf) |
 | **Maintain Payment** | Patent maintenance payment and FTO-related workflows | [Maintain Payment](https://open.patsnap.com/marketplace/mcp-servers/aae364b6-a111-4e17-a99f-d7b74539cfa3) |
+| **Patent Analysis** | Patent trends, distributions, rankings, cross-tabs, keyword clouds, and innovation sunbursts | [Patent Analysis](https://open.zhihuiya.com/marketplace/mcp-servers/patent-analysis) |
 | **Patent Briefing** | Patent and patent family quick-read briefings | [Patent Briefing](https://open.patsnap.com/marketplace/mcp-servers/e54e3afc-df5c-47e9-878f-1e7bb38a7275) |
 | **Patent Landscape Analytics** | Patent landscape analysis across filing trends, technologies, applicants, regions, and value signals | [Patent Landscape Analytics](https://open.patsnap.com/marketplace/mcp-servers/6dd83771-70f2-46ce-b4aa-6fdf60ace3f8) |
 | **Patent Legal Status & Annuity** | Legal status, annuity status, and core legal document workflows | [Patent Legal Status & Annuity](https://open.patsnap.com/marketplace/mcp-servers/cba8ca99-fcc3-4cb6-8afd-baf393151692) |
@@ -24,6 +25,7 @@ To explore Patsnap patent data interactively, try [Eureka](https://eureka.patsna
 | **Patent Valuation Scorecard** | Patent value scoring across technology, legal, market, strategy, and commercialization dimensions | [Patent Valuation Scorecard](https://open.patsnap.com/marketplace/mcp-servers/ff5b188b-48c5-49ce-aaa7-0b1294a89d55) |
 | **Patent Visual Analytics** | Patent charting, trends, value, litigation, citation, and technical-effect analytics | [Patent Visual Analytics](https://open.patsnap.com/marketplace/mcp-servers/29ec8427-6e8a-4125-a246-10af19b24001) |
 | **Internal Patent Data Connector** | Enterprise patent data connector for internal systems, applications, and automated workflows | [Internal Patent Data Connector](https://open.patsnap.com/marketplace/mcp-servers/91e1eddf-d691-4eb7-bd36-7d76e4d1d3f9) |
+| **Workspace Patent Collection Reader** | Accessible workspace, folder, patent, field, annotation, and comment retrieval | [Workspace](https://open.zhihuiya.com/marketplace/mcp-servers/patsnap-workspace) |
 
 ## Quick Start
 

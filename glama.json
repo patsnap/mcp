@@ -10,11 +10,14 @@
     "chemistry",
     "ip-intelligence",
     "rd-innovation",
+    "patent-analysis",
+    "workspace",
+    "triz",
     "innovation-intelligence",
     "patsnap"
   ],
   "quality": {
-    "tool_definitions": "Tools use specific, action-oriented descriptions for patent search and analytics, scientific literature discovery, pharmaceutical intelligence, biological sequence analysis, chemical structure analysis, and R&D workflows. Individual server READMEs document purpose, inputs, outputs, authentication, and connection examples."
+    "tool_definitions": "Tools use specific, action-oriented descriptions for patent search and analytics, workspace collections, scientific literature discovery, pharmaceutical intelligence, biological sequence analysis, chemical structure analysis, TRIZ case retrieval, concept generation, and R&D workflows. Individual server READMEs document purpose, inputs, outputs, authentication, and connection examples."
   },
   "relatedServers": [
     "patsnap/mcp/ip-intelligence/patsnap-advanced-patent-search",
@@ -23,12 +26,14 @@
     "patsnap/mcp/ip-intelligence/patsnap-internal-patent-data-connector",
     "patsnap/mcp/ip-intelligence/patsnap-ip-innovation-courses",
     "patsnap/mcp/ip-intelligence/patsnap-maintain-payment",
+    "patsnap/mcp/ip-intelligence/patsnap-patent-analysis",
     "patsnap/mcp/ip-intelligence/patsnap-patent-briefing",
     "patsnap/mcp/ip-intelligence/patsnap-patent-landscape-analytics",
     "patsnap/mcp/ip-intelligence/patsnap-patent-legal-status-annuity",
     "patsnap/mcp/ip-intelligence/patsnap-patent-monetization-valuation",
     "patsnap/mcp/ip-intelligence/patsnap-patent-valuation-scorecard",
     "patsnap/mcp/ip-intelligence/patsnap-patent-visual-analytics",
+    "patsnap/mcp/ip-intelligence/patsnap-workspace",
     "patsnap/mcp/life-sciences/patsnap-biologics-sequence",
     "patsnap/mcp/life-sciences/patsnap-biology-modality",
     "patsnap/mcp/life-sciences/patsnap-chemical-molecular",
@@ -42,7 +47,9 @@
     "patsnap/mcp/life-sciences/patsnap-scientific-translational-evidence",
     "patsnap/mcp/life-sciences/patsnap-target-disease",
     "patsnap/mcp/rd-innovation/patsnap-innovation-report-generator",
-    "patsnap/mcp/rd-innovation/patsnap-scientific-literature-journals"
+    "patsnap/mcp/rd-innovation/patsnap-scientific-literature-journals",
+    "patsnap/mcp/rd-innovation/patsnap-solution-engine",
+    "patsnap/mcp/rd-innovation/patsnap-triz-case-library"
   ],
   "categories": [
     "ip-intelligence",
