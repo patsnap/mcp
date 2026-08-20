@@ -29,6 +29,7 @@ To explore Patsnap data interactively, try [Eureka](https://eureka.patsnap.com),
 | Server | Description | Open Platform |
 | :--- | :--- | :--- |
 | [Advanced Patent Search](./ip-intelligence/patsnap-advanced-patent-search) | Semantic, similarity, image, nested-query, and keyword-assist patent search | [Advanced Patent Search](https://open.patsnap.com/marketplace/mcp-servers/patent-search) |
+| [Patsnap Patent Research](./ip-intelligence/patsnap-ip-searching) | Novelty search, invention FTO analysis, and image-based design FTO analysis | [Patsnap Patent Research](https://open.patsnap.com/marketplace/mcp-servers/patsnap-ip-searching) |
 | [Patent Briefing](./ip-intelligence/patsnap-patent-briefing) | Patent and patent family quick-read briefings | [Patent Briefing](https://open.patsnap.com/marketplace/mcp-servers/patent-briefing) |
 | [Patent Legal Status & Annuity](./ip-intelligence/patsnap-patent-legal-status-annuity) | Legal status and annuity workflows | [Patent Legal Status & Annuity](https://open.patsnap.com/marketplace/mcp-servers/patent-status) |
 | [Patent Monetization & Valuation](./ip-intelligence/patsnap-patent-monetization-valuation) | Patent transaction, licensing, monetization, and valuation workflows | [Patent Monetization & Valuation](https://open.patsnap.com/marketplace/mcp-servers/patent-monetize) |

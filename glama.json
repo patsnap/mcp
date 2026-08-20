@@ -5,6 +5,8 @@
   ],
   "keywords": [
     "patent-search",
+    "novelty-search",
+    "fto-analysis",
     "scientific-literature",
     "life-sciences",
     "chemistry",
@@ -25,6 +27,7 @@
     "patsnap/mcp/ip-intelligence/patsnap-global-core-patent-database",
     "patsnap/mcp/ip-intelligence/patsnap-internal-patent-data-connector",
     "patsnap/mcp/ip-intelligence/patsnap-ip-innovation-courses",
+    "patsnap/mcp/ip-intelligence/patsnap-ip-searching",
     "patsnap/mcp/ip-intelligence/patsnap-maintain-payment",
     "patsnap/mcp/ip-intelligence/patsnap-patent-analysis",
     "patsnap/mcp/ip-intelligence/patsnap-patent-briefing",

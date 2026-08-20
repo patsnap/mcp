@@ -16,6 +16,7 @@ To explore Patsnap patent data interactively, try [Eureka](https://eureka.patsna
 | **Deep Patent Mining** | Technical topic, problem-solution-effect, classification, and patent text mining | [Deep Patent Mining](https://open.patsnap.com/marketplace/mcp-servers/d1f84e46-f494-4927-aba8-94eeaef94c55) |
 | **Global Core Patent Database** | Global core patent records, full text, drawings, legal status, licensing, and bibliographic data | [Global Core Patent Database](https://open.patsnap.com/marketplace/mcp-servers/8dc7ef1d-d900-4c6d-bec6-2a9c03e7456b) |
 | **IP & Innovation Courses** | IP and innovation courses, course details, and training resources | [IP & Innovation Courses](https://open.patsnap.com/marketplace/mcp-servers/172edf47-eae9-4f01-b8c0-e6018aab79bf) |
+| **Patsnap Patent Research** | Novelty search, invention FTO analysis, and image-based design FTO analysis | [Patsnap Patent Research](https://open.patsnap.com/marketplace/mcp-servers/patsnap-ip-searching) |
 | **Maintain Payment** | Patent maintenance payment and FTO-related workflows | [Maintain Payment](https://open.patsnap.com/marketplace/mcp-servers/aae364b6-a111-4e17-a99f-d7b74539cfa3) |
 | **Patent Analysis** | Patent trends, distributions, rankings, cross-tabs, keyword clouds, and innovation sunbursts | [Patent Analysis](https://open.zhihuiya.com/marketplace/mcp-servers/patent-analysis) |
 | **Patent Briefing** | Patent and patent family quick-read briefings | [Patent Briefing](https://open.patsnap.com/marketplace/mcp-servers/e54e3afc-df5c-47e9-878f-1e7bb38a7275) |
